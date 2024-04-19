@@ -1,0 +1,27 @@
+{
+  "name": "little-fern-docs",
+  "version": "1.0.0",
+  "description": "A documentation site for the https://www.admin.littlefern.in created using docsify",
+  "main": "index.js",
+  "scripts": {
+    "start": "docsify serve ./docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohit1901/little-fern-docs.git"
+  },
+  "keywords": [
+    "docsify",
+    "documentation",
+    "markdown"
+  ],
+  "author": "Rohit Khanduri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rohit1901/little-fern-docs/issues"
+  },
+  "homepage": "https://github.com/rohit1901/little-fern-docs#readme",
+  "dependencies": {
+    "docsify": "^4.13.1"
+  }
+}
