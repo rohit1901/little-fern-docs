@@ -2,7 +2,6 @@
   "name": "little-fern-docs",
   "version": "1.0.0",
   "description": "A documentation site for the https://www.admin.littlefern.in created using docsify",
-  "main": "index.js",
   "scripts": {
     "start": "docsify serve ./docs"
   },
