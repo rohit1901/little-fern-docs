@@ -5,4 +5,4 @@ The gallery page is designed to showcase the images in a visually appealing way 
 There is nothing special about the gallery page except:
 - All images under the Gallery Items section have a Dropzone component for uploading images and a tag for filtering the image on the website.
 
-<img src="../images/gallery.png" alt="Open gallery" width="750">
+<img src="images/gallery.png" alt="Open gallery" width="750">

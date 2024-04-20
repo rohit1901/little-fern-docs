@@ -6,4 +6,4 @@ A list of programs is displayed in a table format. Each program can be identifie
 
 **NOTE**: In order to remove a program, you need to select the program from the list and click on the "Remove" button.
 
-<img src="../images/remove.program.png" alt="Remove program" width="350">
+<img src="images/remove.program.png" alt="Remove program" width="350">

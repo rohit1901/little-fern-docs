@@ -22,7 +22,7 @@ The Dates group is a group of dates that are used to display the program begin a
 The left part of the group in green are the currently set dates separated by a dash (-). 
 The right part of the group are the date pickers.
 
-<img src="../images/dates.png" width="350" alt="Open dates">
+<img src="images/dates.png" width="350" alt="Open dates">
 
 ## Schedule
 The schedule is a group of dates and times that are used to display the program schedule of each program.
@@ -35,8 +35,8 @@ The left part of the group in green are the currently set dates and times separa
 The right part of the group are the date and time pickers.
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="../images/schedule.png" width="375" alt="Open schedule">
-    <img src="../images/schedule.alt.png" width="550" alt="Open schedule alternate">
+    <img src="images/schedule.png" width="375" alt="Open schedule">
+    <img src="images/schedule.alt.png" width="550" alt="Open schedule alternate">
 </div>
 
 
@@ -46,4 +46,4 @@ It consists of the following fields:
 - **Price**: The price of the program
 - **Interval**: The interval of the price (e.g. per month, per year, etc.)
 
-<img src="../images/pricing.png" alt="Open pricing" width="350">
+<img src="images/pricing.png" alt="Open pricing" width="350">

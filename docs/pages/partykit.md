@@ -9,4 +9,4 @@ NOTE: This is not relevant for the end user.
 Looks fantastic, doesn't it?
 
 
-<img src="../images/partykit.png" alt="PartyKit" width="800"/>
+<img src="images/partykit.png" alt="PartyKit" width="800"/>

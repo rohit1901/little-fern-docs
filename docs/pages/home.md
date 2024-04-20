@@ -14,7 +14,7 @@ With the little arrow on the right side of the card, you can collapse or expand 
 <img alt="chevron" src="https://img.icons8.com/ios-glyphs/30/chevron-down.png" width="20"/>
 <img alt="chevron up" src="https://img.icons8.com/ios-glyphs/30/chevron-up.png" width="20"/>
 
-<img src="../images/collapsible.card.png" alt="Home" width="850"/>
+<img src="images/collapsible.card.png" alt="Home" width="850"/>
 
 ## Dropzone
 A dropzone is a section where you can upload images. The dropzone is designed to help you manage the images on the website.
@@ -26,12 +26,12 @@ It has 4 main components:
 
 **NOTE**: Just read the text on the dropzone and follow the instructions to upload the images.
 
-<img src="../images/dropzone.png" alt="Home" width="450"/>
+<img src="images/dropzone.png" alt="Home" width="450"/>
 
 ## Buttons
 At the end of the page are two buttons which perform the following actions:
 
-<img src="../images/page.actions.png" alt="Home" width="150"/>
+<img src="images/page.actions.png" alt="Home" width="150"/>
 
 - **Reset**: Resets all the changes made to the page and reloads the original content.
 - **Update**: Saves the changes made to the page and updates the website with the new content.

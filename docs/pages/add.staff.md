@@ -13,4 +13,4 @@ The add staff option in the sidebar will open a form to add a new staff member t
 
 **NOTE**: Remember that the images will not be saved on clicking the Add Staff button. You need to click the Upload button to save the images.
 
-<img src="../images/add.staff.png" alt="Add Staff" width="750">
+<img src="images/add.staff.png" alt="Add Staff" width="350">
