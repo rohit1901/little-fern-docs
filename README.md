@@ -4,7 +4,7 @@ This is the documentation for the Little Fern Admin project which can be found a
 
 Created using [Docsify](https://docsify.js.org/).
 
-The documentation can be found at [DOCS: Little Fern Admin](https://www.docs.littlefern.in/).
+The documentation can be found at [DOCS: Little Fern Admin](https://rohit1901.github.io/little-fern-docs/).
 
 # License
 This documentation is licensed under the [MIT License](./LICENSE).

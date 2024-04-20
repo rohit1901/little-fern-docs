@@ -21,7 +21,7 @@ Admin user details:
 
 
 # Header
-![Header](../images/header.png)
+![Header](./images/header.png)
 The header is the top part of the webapp. It contains the logo, a notification bell, a color scheme toggle, and a user profile icon. The header is
 always visible on the website.
 - Logo: Clicking on the logo will redirect you to the home page.
@@ -31,7 +31,7 @@ always visible on the website.
   details and options to log out and other useful links.
 
 **Unauthorized User**: The header will contain a message if the logged-in user is authorized to update the website.
-![Header](../images/unauthorized.header.png)
+![Header](./images/unauthorized.header.png)
 By clicking on the "Login as a different user" button, you will be logged out of the current user and redirected to the login page where you can log in as a different user.
 
 ## Notifications
